@@ -1,0 +1,625 @@
+genres,name,discount,discounted_price,original_price
+"['Shooter', 'Platform', 'Racing', 'Adventure', 'Arcade']",Pac-Man World Re-Pac,-40%,$17.99,$29.99
+"['Fighting', ""Hack and slash/Beat 'em up""]",For Honor: Season 21 - Golden Age,-75%,$7.49,$29.99
+"['Shooter', 'Adventure']",Far Cry 5,-85%,$8.99,$59.99
+['Shooter'],Predator: Hunting Grounds - Viking Predator,-50%,$14.99,$29.99
+"['Shooter', 'Adventure']",Shadow of the Tomb Raider: Definitive Edition,-70%,$11.99,$39.99
+['Fighting'],Naruto to Boruto: Shinobi Striker - Deluxe Edition,-90%,$8.99,$89.99
+['Fighting'],Dragon Ball FighterZ: Deluxe Edition,-85%,$14.24,$94.99
+"['Platform', 'Puzzle', 'Adventure']",Unravel Two,-75%,$4.99,$19.99
+"['Shooter', 'Role-playing (RPG)']",Terminator: Resistance Enhanced,-60%,$19.99,$49.99
+"['Shooter', 'Adventure']",The Evil Within,-75%,$4.99,$19.99
+"['Shooter', 'Racing', 'Adventure']",Mad Max,-75%,$4.99,$19.99
+"['Shooter', 'Role-playing (RPG)', 'Adventure']",Rise of the Tomb Raider: 20 Year Celebration,-80%,$5.99,$29.99
+"['Shooter', 'Platform', 'Puzzle', 'Adventure']",Tomb Raider: Definitive Edition,-75%,$4.99,$19.99
+['Role-playing (RPG)'],Mortal Shell: Enhanced Edition,-70%,$8.99,$29.99
+"['Role-playing (RPG)', 'Indie']",Mortal Shell,-70%,$8.99,$29.99
+"['Simulator', 'Sport', 'Adventure']",Steep,-75%,$7.49,$29.99
+"['Role-playing (RPG)', 'Strategy']",Final Fantasy X/X-2 HD Remaster,-50%,$12.49,$24.99
+['Fighting'],Persona 4 Arena Ultimax,-50%,$14.99,$29.99
+"['Shooter', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",Paint the Town Red,-60%,$7.99,$19.99
+"[""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",Trek to Yomi,-40%,$11.99,$19.99
+"['Role-playing (RPG)', 'Adventure']",The Seven Deadly Sins: Knights of Britannia,-85%,$8.99,$59.99
+['Adventure'],Life is Strange 2,-60%,$12.77,$31.94
+"['Shooter', 'Role-playing (RPG)', 'Adventure', 'Indie']",Warhammer: Vermintide 2,-80%,$8.99,$44.99
+['Fighting'],Power Rangers: Battle for the Grid,-50%,$9.99,$19.99
+['Fighting'],Power Rangers: Battle for the Grid - Collector's Edition,-50%,$14.99,$29.99
+"['Fighting', 'Arcade']",Nickelodeon All-Star Brawl,-80%,$9.99,$49.99
+"['Racing', 'Simulator', 'Sport', 'Arcade']",Street Outlaws 2: Winner Takes All,-80%,$9.99,$49.99
+['Simulator'],Lawn Mowing Simulator,-50%,$9.99,$19.99
+"['Simulator', 'Strategy', 'Indie']",Frostpunk: Console Edition,-80%,$5.99,$29.99
+"['Strategy', 'Indie']",Five Nights at Freddy's 4,-50%,$3.99,$7.99
+['Racing'],Cars 3: Driven to Win,-90%,$3.99,$39.99
+"['Racing', 'Simulator', 'Sport']",Monster Jam Steel Titans 2,-67%,$13.19,$39.99
+"['Music', 'Indie', 'Arcade']",Just Shapes & Beats,-30%,$13.99,$19.99
+"['Shooter', 'Adventure']",Wolfenstein: The New Order,-75%,$4.99,$19.99
+['Shooter'],Wolfenstein: The Two-Pack,-75%,$7.49,$29.99
+"['Simulator', 'Strategy', 'Adventure', 'Indie']",Five Nights at Freddy's 2,-50%,$3.99,$7.99
+['Fighting'],My Hero One's Justice,-90%,$5.99,$59.99
+"['Puzzle', 'Adventure', 'Indie']",Bugsnax,-60%,$9.99,$24.99
+['Sport'],Olympic Games Tokyo 2020: The Official Video Game,-80%,$7.99,$39.99
+['Adventure'],The Walking Dead: The Complete First Season,-60%,$5.99,$14.99
+"['Simulator', 'Sport', 'Strategy', 'Indie']",Axis Football 2023,-25%,$14.99,$19.99
+"['Shooter', 'Adventure']",Just Cause 4: Complete Edition,-80%,$13.99,$69.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Oddworld: Soulstorm - Enhanced Edition,-60%,$15.99,$39.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Dungeons of Sundaria,-25%,$14.99,$19.99
+"['Shooter', 'Role-playing (RPG)', 'Adventure']",Deus Ex: Mankind Divided,-85%,$4.49,$29.99
+['Adventure'],Outlast: Bundle of Terror,-90%,$2.89,$28.99
+"['Simulator', 'Strategy', 'Indie']",Ultimate Custom Night,-50%,$3.99,$7.99
+"['Role-playing (RPG)', 'Strategy', 'Adventure']",Pillars of Eternity II: Deadfire - Ultimate Edition,-75%,$14.99,$59.99
+"['Shooter', 'Role-playing (RPG)', 'Adventure']",Terminator: Resistance,-60%,$15.99,$39.99
+['Indie'],Party Panic,-40%,$10.19,$16.99
+"['Puzzle', 'Adventure']",Escape Academy: Escape From Anti-Escape Island,-25%,$14.99,$19.99
+"['Point-and-click', 'Simulator', 'Strategy', 'Adventure', 'Indie']",Five Nights at Freddy's: Sister Location,-50%,$3.99,$7.99
+"['Shooter', 'Platform', 'Indie', 'Arcade']",Broforce,-80%,$2.99,$14.99
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",The Walking Dead Onslaught,-80%,$5.99,$29.99
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",Dysmantle,-50%,$9.99,$19.99
+"['Shooter', 'Strategy']",Plants vs. Zombies: Garden Warfare 2 - Deluxe Edition,-70%,$7.49,$24.99
+"['Platform', 'Adventure', 'Indie']",A Hat in Time,-50%,$14.99,$29.99
+"['Simulator', 'Strategy']",Stellaris: Console Edition,-75%,$9.99,$39.99
+"['Point-and-click', 'Puzzle', 'Adventure']",The Walking Dead: Season Two,-60%,$5.99,$14.99
+['Fighting'],Primal Rage II,-75%,$9.99,$39.99
+"['Fighting', 'Adventure']",Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst,-80%,$3.99,$19.99
+"['Shooter', 'Adventure']",Wolfenstein: Youngblood,-70%,$5.99,$19.99
+"['Racing', 'Simulator', 'Sport']",Monster Energy Supercross: The Official Videogame 4 - Historical Monster Energy Cup 2011,-85%,$4.49,$29.99
+"['Shooter', 'Simulator', 'Adventure']",Thief: Deadly Shadows,-85%,$2.99,$19.99
+"['Platform', 'Adventure', 'Indie']",Celeste,-60%,$7.99,$19.99
+"['Fighting', 'Adventure']",Naruto: Ultimate Ninja Storm,-75%,$4.99,$19.99
+"['Simulator', 'Strategy', 'Indie']",PC Building Simulator,-75%,$4.99,$19.99
+"['Platform', 'Adventure']",TY the Tasmanian Tiger 2: Bush Rescue HD,-50%,$14.99,$29.99
+['Strategy'],Jurassic World Evolution 2: Deluxe Edition,-75%,$13.74,$54.99
+"['Fighting', 'Role-playing (RPG)', 'Adventure']",Kingdoms of Amalur: Re-Reckoning,-70%,$11.99,$39.99
+"['Platform', 'Simulator', 'Adventure', 'Indie']",Just Die Already,-66%,$5.09,$14.99
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",Darksiders III,-80%,$7.99,$39.99
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",Darksiders III: Blades & Whip Edition,-85%,$11.99,$79.99
+"['Role-playing (RPG)', 'Simulator', 'Strategy']",Relayer,-80%,$11.99,$59.99
+"['Strategy', 'Indie']",Five Nights at Freddy's 3,-50%,$3.99,$7.99
+"['Adventure', 'Indie']",Soma,-90%,$2.99,$29.99
+"['Simulator', 'Strategy', 'Adventure', 'Indie']",This War of Mine: Final Cut,-40%,$11.99,$19.99
+"['Shooter', 'Simulator', 'Sport', 'Strategy', 'Adventure']",Hunting Simulator,-83%,$3.39,$19.99
+"['Platform', 'Simulator', 'Strategy', 'Adventure', 'Indie']",Octodad: Dadliest Catch,-85%,$2.24,$14.99
+"['Racing', 'Simulator', 'Sport']",Overpass,-80%,$5.99,$29.99
+"['Racing', 'Simulator', 'Adventure', 'Indie']",Totally Reliable Delivery Service,-80%,$2.99,$14.99
+"['Role-playing (RPG)', 'Adventure']",World of Final Fantasy: Maxima,-60%,$9.99,$24.99
+"['Fighting', 'Strategy', 'Adventure']",Naruto Shippuden: Ultimate Ninja Storm 2,-80%,$3.99,$19.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",New Super Lucky's Tale,-65%,$10.49,$29.99
+"['Simulator', 'Sport']",Everybody's Golf,-50%,$9.99,$19.99
+"['Puzzle', 'Adventure', 'Indie']",Amnesia: Collection,-90%,$2.99,$29.99
+"['Role-playing (RPG)', 'Adventure']",Secret of Mana,-50%,$19.99,$39.99
+"['Puzzle', 'Adventure', 'Indie']",Amnesia: Rebirth,-75%,$7.49,$29.99
+"['Shooter', 'Simulator', 'Indie']",Kill It With Fire,-60%,$5.99,$14.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Children of Morta,-70%,$6.59,$21.99
+"['Puzzle', 'Strategy', 'Adventure']",King's Quest VIII: The Mask of Eternity,-70%,$7.49,$24.99
+"['Adventure', 'Indie']",Home Sweet Home: Episode 2,-67%,$9.89,$29.99
+"['Shooter', 'Adventure']",Nerf Legends,-80%,$9.99,$49.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Hellpoint,-80%,$6.99,$34.99
+['Indie'],First Class Trouble,-70%,$5.99,$19.99
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",Forager,-65%,$6.99,$19.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Motto!? Fushigi no Gensoukyou: Under the Moonlight,-80%,$3.99,$19.99
+"['Shooter', 'Adventure', 'Indie']",Succubus With Guns,-30%,$6.99,$9.99
+"['Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure']",Empire of Sin,-75%,$9.99,$39.99
+"['Role-playing (RPG)', 'Adventure']",Sword Art Online: Hollow Realization - Deluxe Edition,-85%,$12.74,$84.99
+['Simulator'],Universal Flight Simulator,-40%,$5.99,$9.99
+"['Shooter', 'Adventure']",Wolfenstein: The Old Blood,-75%,$4.99,$19.99
+['Shooter'],Until Dawn: Rush of Blood,-60%,$5.99,$14.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Pathologic 2,-80%,$6.99,$34.99
+['Shooter'],Killzone: Shadow Fall,-50%,$9.99,$19.99
+"['Adventure', 'Indie']",Daymare: 1998,-80%,$7.99,$39.99
+['Adventure'],Stubbs the Zombie in Rebel Without a Pulse,-65%,$6.99,$19.99
+"['Simulator', 'Sport', 'Strategy', 'Indie']",Axis Football 2021,-25%,$11.24,$14.99
+"['Shooter', 'Platform', 'Adventure', 'Indie', 'Arcade']",My Friend Pedro,-75%,$4.99,$19.99
+['Strategy'],Worms Battlegrounds + Worms W.M.D,-80%,$4.99,$24.99
+"['Adventure', 'Indie']",Maid of Sker,-50%,$12.49,$24.99
+"['Fighting', 'Role-playing (RPG)', 'Adventure', 'Indie']",Absolver,-85%,$4.49,$29.99
+"['Simulator', 'Sport']",Everybody's Golf VR,-50%,$14.99,$29.99
+"['Platform', 'Role-playing (RPG)', 'Adventure']",Source of Madness,-35%,$12.99,$19.99
+"['Platform', 'Indie']",TowerFall Ascension,-80%,$2.99,$14.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Aeterna Noctis,-50%,$14.99,$29.99
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",Valkyria Chronicles 4: Complete Edition,-75%,$12.49,$49.99
+"['Platform', 'Adventure', 'Indie']",Spelunky,-90%,$1.49,$14.99
+"['Simulator', 'Indie']",Heliborne,-50%,$14.99,$29.99
+"['Simulator', 'Adventure']",Bee Simulator,-65%,$6.99,$19.99
+"['Shooter', 'Adventure', 'Indie', 'Arcade']",Hotline Miami Collection,-75%,$4.99,$19.99
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",Final Vendetta,-50%,$12.49,$24.99
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up""]",God Eater Resurrection,-75%,$4.99,$19.99
+"['Role-playing (RPG)', 'Adventure']",Paranormal Activity: The Lost Soul,-60%,$11.99,$29.99
+"['Adventure', 'Indie']",Observer: System Redux,-50%,$14.99,$29.99
+"['Shooter', 'Puzzle', 'Strategy', 'Adventure', 'Indie']",The Talos Principle: Deluxe Edition,-85%,$4.49,$29.99
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up""]",Titan Quest: Ragnarök,-80%,$5.99,$29.99
+"['Puzzle', 'Racing', 'Role-playing (RPG)']",Pocoyo Party,-55%,$13.49,$29.99
+"['Platform', 'Adventure', 'Indie']",Yooka-Laylee,-85%,$5.99,$39.99
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Tactical']",Desperados III,-67%,$13.19,$39.99
+['Shooter'],Ghost in the Shell: Stand Alone Complex,-50%,$6.49,$12.99
+"['Point-and-click', 'Adventure']",South of the Circle,-40%,$7.79,$12.99
+"['Shooter', 'Arcade']",Everspace: Stellar Edition,-80%,$7.99,$39.99
+"['Fighting', 'Shooter', 'Simulator', 'Indie']",Everspace,-85%,$4.49,$29.99
+"['Strategy', 'Quiz/Trivia', 'Indie']",Drawful 2,-60%,$3.99,$9.99
+"['Puzzle', 'Adventure']",Sherlock Holmes: Crimes & Punishments,-80%,$7.99,$39.99
+"['Shooter', 'Platform', 'Role-playing (RPG)', 'Adventure', 'Indie']",Dungeon Munchies,-20%,$13.59,$16.99
+"['Role-playing (RPG)', 'Adventure']",Oninaki,-60%,$19.99,$49.99
+"['Simulator', 'Strategy', 'Indie']",Autonauts,-70%,$5.99,$19.99
+"['Strategy', 'Quiz/Trivia']",U-jin no Furi-furi Girls,-65%,$6.99,$19.99
+"['Role-playing (RPG)', 'Adventure']",Shining Resonance Refrain,-80%,$5.99,$29.99
+"['Shooter', 'Racing', 'Adventure', 'Indie']",American Fugitive,-70%,$5.99,$19.99
+"['Platform', 'Adventure', 'Arcade']",Lucky's Tale,-70%,$5.99,$19.99
+"['Platform', 'Adventure']",Wavetale,-34%,$19.79,$29.99
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy']",Grand Ages: Medieval,-75%,$7.49,$29.99
+"['Puzzle', 'Adventure', 'Indie']",A Space for the Unbound,-20%,$15.99,$19.99
+"['Adventure', 'Indie']",UnMetal,-60%,$7.99,$19.99
+"['Adventure', 'Indie']",Blair Witch VR,-50%,$14.99,$29.99
+"['Platform', 'Adventure', 'Indie']",Yooka-Laylee and the Impossible Lair,-80%,$5.99,$29.99
+"['Simulator', 'Sport', 'Strategy', 'Indie']",Axis Football 2020,-25%,$7.49,$9.99
+"['Adventure', 'Visual Novel']",Sakura Succubus 5,-50%,$3.99,$7.99
+['Adventure'],Concrete Genie,-50%,$14.99,$29.99
+"['Shooter', 'Simulator', 'Adventure', 'Indie']",Contagion VR: Outbreak,-40%,$8.99,$14.99
+"['Point-and-click', 'Adventure']",Blade Runner: Enhanced Edition,-50%,$4.99,$9.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Kaze and the Wild Masks,-75%,$7.49,$29.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Windbound,-90%,$1.99,$19.99
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Arcade', 'Card & Board Game']",Super Bullet Break,-30%,$13.99,$19.99
+"['Shooter', 'Indie', 'Arcade']",Crisis VRigade 2,-30%,$13.99,$19.99
+"['Adventure', 'Visual Novel']",Freezer Pops,-40%,$5.99,$9.99
+"['Racing', 'Adventure']",Horse Club Adventures,-40%,$14.99,$24.99
+"['Puzzle', 'Adventure']",Suicide Guy VR,-55%,$4.49,$9.99
+"['Role-playing (RPG)', 'Adventure', 'Arcade']",Chronos: Before the Ashes,-75%,$7.49,$29.99
+"['Racing', 'Simulator', 'Sport', 'Indie', 'Arcade']",Lonely Mountains: Downhill,-50%,$9.99,$19.99
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up""]",Vikings: Wolves of Midgard,-60%,$11.99,$29.99
+"['Simulator', 'Sport']",Yoga Master,-50%,$12.49,$24.99
+"['Adventure', 'Indie']",Deliver us the Moon: Digital Deluxe,-70%,$8.99,$29.99
+"['Puzzle', 'Simulator', 'Adventure', 'Indie']",Case 2: Animatronics Survival,-25%,$13.49,$17.99
+"['Music', 'Sport', 'Indie', 'Arcade']",Synth Riders: Remastered Edition,-20%,$19.99,$24.99
+"['Role-playing (RPG)', 'Adventure', 'Indie', 'Visual Novel']",Vampire: The Masquerade - Coteries of New York,-85%,$2.99,$19.99
+['Adventure'],The Inpatient,-50%,$9.99,$19.99
+"['Role-playing (RPG)', 'Strategy', 'Indie', 'Card & Board Game']",Talisman: Digital Edition - Shaman,-50%,$14.99,$29.99
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",Seven: Enhanced Edition,-75%,$9.99,$39.99
+"['Puzzle', 'Simulator', 'Adventure', 'Indie']",Case: Animatronics,-40%,$5.99,$9.99
+"['Puzzle', 'Adventure', 'Indie']",Don't Knock Twice,-60%,$7.99,$19.99
+"['Puzzle', 'Adventure', 'Indie']",In Rays of the Light,-50%,$3.99,$7.99
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Card & Board Game']","Warhammer 40,000: Space Wolf",-35%,$19.49,$29.99
+"['Puzzle', 'Adventure', 'Indie']",Manifold Garden,-50%,$9.99,$19.99
+"['Puzzle', 'Adventure', 'Indie']",Ghost Giant,-70%,$7.49,$24.99
+"['Puzzle', 'Simulator']",Coaster Crazy,-45%,$2.74,$4.99
+"['Strategy', 'Tactical', 'Adventure']",Winter Ember,-50%,$14.99,$29.99
+"['Platform', 'Puzzle', 'Strategy', 'Adventure', 'Indie']",The Swapper,-90%,$1.49,$14.99
+"['Shooter', 'Platform', 'Puzzle', 'Adventure']",The Mummy: Demastered,-50%,$9.99,$19.99
+"['Simulator', 'Adventure', 'Indie']",Late Shift,-55%,$5.62,$12.49
+"['Shooter', 'Indie', 'Arcade']",Rico,-70%,$5.99,$19.99
+"['Simulator', 'Strategy', 'Adventure', 'Indie']",This War of Mine: The Little Ones,-90%,$1.99,$19.99
+"['Simulator', 'Adventure']",Horse Club Adventures 2: Hazelwood Stories,-35%,$19.49,$29.99
+"['Role-playing (RPG)', 'Strategy', 'Adventure']",Styx: Master of Shadows,-80%,$3.99,$19.99
+"['Simulator', 'Adventure', 'Indie']",Five Dates,-40%,$7.79,$12.99
+"['Simulator', 'Sport', 'Tactical']",Rugby 20,-80%,$5.99,$29.99
+"['Shooter', 'Adventure', 'Arcade']",Cotton Fantasy,-60%,$15.99,$39.99
+['Adventure'],Witch College Bundle,-50%,$4.49,$8.99
+"['Role-playing (RPG)', 'Adventure', 'Indie', 'Visual Novel', 'Card & Board Game']",Vampire: The Masquerade - Shadows of New York,-70%,$3.89,$12.99
+"['Simulator', 'Adventure', 'Indie', 'Visual Novel']",Blackberry Honey,-60%,$5.19,$12.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",Everything,-80%,$2.99,$14.99
+"['Shooter', 'Platform', 'Indie', 'Arcade']","I, AI",-50%,$4.99,$9.99
+"['Music', 'Adventure']",Mind Labyrinth VR Dreams,-50%,$9.99,$19.99
+"['Platform', 'Adventure', 'Indie']",Freedom Planet,-30%,$10.49,$14.99
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)']",The Bard's Tale IV: Director's Cut,-90%,$3.99,$39.99
+['Adventure'],Robinson: The Journey,-90%,$2.99,$29.99
+"['Music', 'Puzzle', 'Sport']",Scribblenauts Showdown,-90%,$3.99,$39.99
+"[""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",Battle Axe,-50%,$14.99,$29.99
+"[""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",Battle Axe,-40%,$17.99,$29.99
+"['Simulator', 'Adventure', 'Indie']",Night Book,-50%,$6.49,$12.99
+"['Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",Eville,-30%,$10.49,$14.99
+"['Simulator', 'Strategy', 'Indie']",Megaquarium,-70%,$7.64,$25.49
+"['Adventure', 'Indie']",Yuoni: Rises,-50%,$10.99,$21.99
+"['Shooter', 'Platform', 'Adventure', 'Arcade']",Spidersaurs,-30%,$13.99,$19.99
+"['Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Indie']",Wargroove,-60%,$7.99,$19.99
+"['Role-playing (RPG)', 'Adventure']",Fade to Silence,-70%,$8.99,$29.99
+"['Adventure', 'Indie']",Bloodshore,-50%,$7.49,$14.99
+"['Puzzle', 'Adventure', 'Indie']",35MM,-40%,$5.99,$9.99
+"['Shooter', 'Adventure', 'Indie']",Trigger Witch,-60%,$5.99,$14.99
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up""]",Shadows: Awakening,-67%,$9.89,$29.99
+"['Simulator', 'Sport']",Handball 21,-80%,$7.99,$39.99
+"['Point-and-click', 'Adventure', 'Indie']",One Night Stand,-80%,$0.99,$4.99
+"['Point-and-click', 'Adventure', 'Indie']",One Night Stand,-80%,$0.99,$4.99
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie', 'Card & Board Game']",Curious Expedition 2,-50%,$9.99,$19.99
+"['Adventure', 'Indie']",Who Pressed Mute on Uncle Marcus?,-40%,$7.79,$12.99
+"['Shooter', 'Strategy', ""Hack and slash/Beat 'em up"", 'Indie']",Raw Data,-80%,$7.99,$39.99
+['Arcade'],Music Racer: Ultimate,-50%,$3.49,$6.99
+"['Simulator', 'Sport', 'Adventure']",Deep Diving Adventures,-50%,$9.99,$19.99
+['Indie'],Bullet Roulette VR,-60%,$3.59,$8.99
+['Arcade'],Darius Cozmic Collection Arcade,-60%,$17.99,$44.99
+"['Shooter', 'Arcade']",Natsuki Chronicles,-70%,$5.99,$19.99
+"['Adventure', 'Indie', 'Arcade']",Super Sami Roll,-35%,$9.74,$14.99
+['Role-playing (RPG)'],Knight Quest,-80%,$4.99,$24.99
+"['Puzzle', 'Adventure']",Doctor Who: The Edge of Time,-70%,$7.49,$24.99
+"['Shooter', 'Platform', 'Adventure']",Firegirl: Hack 'n Splash Rescue DX,-55%,$8.09,$17.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",Simulacra,-55%,$5.84,$12.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Heidelberg 1693,-30%,$10.49,$14.99
+['Puzzle'],Hue^2,-30%,$14.99,$14.99
+"['Shooter', 'Arcade']",Heavy Fire: Red Shadow,-75%,$4.99,$19.99
+"['Platform', 'Adventure']",Deadlight: Director's Cut,-90%,$1.49,$14.99
+"['Shooter', 'Simulator', 'Adventure', 'Indie']",DragonRide VR,-60%,$5.99,$14.99
+"['Shooter', 'Indie']",Until None Remain VR,-70%,$5.99,$19.99
+"['Shooter', 'Racing', 'Arcade']",Agent Intercept,-40%,$11.99,$19.99
+"['Simulator', 'Sport']",Axis Football 2018,-25%,$3.74,$4.99
+"['Simulator', 'Strategy']",Bomber Crew: Deluxe Edition,-75%,$6.24,$24.99
+"['Simulator', 'Strategy', 'Indie']",Mars Horizon,-67%,$6.59,$19.99
+"['Adventure', 'Indie']",I Saw Black Clouds,-60%,$5.19,$12.99
+"['Racing', 'Indie', 'Arcade']",Hotshot Racing,-80%,$3.99,$19.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",The Serpent Rogue,-60%,$7.99,$19.99
+"['Simulator', 'Adventure', 'Indie']",Manual Samuel,-80%,$1.99,$9.99
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Tactical', 'Indie']",8-Bit Armies,-90%,$2.99,$29.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie', 'Visual Novel']",The Language of Love,-80%,$2.39,$11.99
+"['Sport', 'Adventure', 'Indie']",Stikbold! A Dodgeball Adventure,-50%,$4.99,$9.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Witchcrafty,-40%,$5.99,$9.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Yaga,-75%,$6.24,$24.99
+"['Shooter', 'Indie', 'Arcade']",Crisis VRigade,-50%,$4.49,$8.99
+"['Adventure', 'Indie']",Last Days of Lazarus,-25%,$14.99,$19.99
+"['Simulator', 'Strategy', 'Adventure', 'Indie']",Space Crew: Legendary Edition,-80%,$4.99,$24.99
+"['Music', 'Sport']",Brain Beats,-50%,$7.49,$14.99
+"['Shooter', 'Strategy', 'Indie']",Blood Waves,-50%,$4.99,$9.99
+"['Shooter', 'Platform', 'Indie', 'Arcade']",Mighty Goose,-60%,$7.99,$19.99
+"['Role-playing (RPG)', 'Adventure']",Final Fantasy XV: Pocket Edition HD,-60%,$11.99,$29.99
+['Role-playing (RPG)'],Exploria,-35%,$9.09,$13.99
+"['Shooter', 'Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",Warhammer: End Times - Vermintide,-90%,$3.99,$39.99
+"['Simulator', 'Adventure', 'Indie']",Nostalgic Train,-25%,$10.49,$13.99
+"['Shooter', 'Adventure', 'Arcade']",Cotton Reboot!,-70%,$11.99,$39.99
+"['Simulator', 'Strategy']",Constructor,-90%,$3.99,$39.99
+"['Shooter', 'Arcade']",Dariusburst: Another Chronicle EX+,-70%,$11.99,$39.99
+"['Music', 'Sport']",OhShape,-20%,$15.99,$19.99
+"['Puzzle', 'Adventure', 'Indie', 'Visual Novel']",Mothmen 1966,-50%,$4.49,$8.99
+"['Role-playing (RPG)', 'Adventure', 'Indie', 'Visual Novel']",Highschool Romance,-50%,$6.49,$12.99
+"['Music', 'Puzzle', 'Adventure', 'Indie']",The Forest Quartet,-25%,$7.49,$9.99
+"['Adventure', 'Indie']",Silenced: The House,-40%,$2.99,$4.99
+"['Music', 'Platform', 'Puzzle', 'Adventure', 'Indie']",Figment,-80%,$3.99,$19.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Planet Alpha,-80%,$1.99,$9.99
+"['Platform', 'Role-playing (RPG)', 'Adventure', 'Indie']",Aggelos,-80%,$2.99,$14.99
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",Valthirian Arc: Hero School Story,-80%,$2.99,$14.99
+"['Simulator', 'Strategy', 'Adventure', 'Indie']",Beholder: Complete Edition,-80%,$2.99,$14.99
+"['Fighting', 'Arcade']",Boxer,-75%,$2.49,$9.99
+"['Point-and-click', 'Puzzle', 'Adventure']",Broken Sword 5: The Serpent's Curse - Episode 1,-90%,$2.49,$24.99
+"['Fighting', 'Simulator', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",Drunken Fist,-80%,$1.59,$7.99
+"['Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",Carto,-50%,$9.99,$19.99
+"['Simulator', 'Sport', 'Arcade']",Free Throw Basketball,-40%,$2.99,$4.99
+['Sport'],Pumped: BMX,-80%,$1.99,$9.99
+"['Puzzle', 'Simulator', 'Adventure', 'Indie']",The Shapeshifting Detective,-60%,$5.19,$12.99
+['Shooter'],Quake 3 - Hunter's Moon,-80%,$2.99,$14.99
+"['Fighting', 'Platform', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",Krut: The Mythic Wings,-50%,$4.99,$9.99
+"['Racing', 'Simulator']",Real Farm,-70%,$11.99,$39.99
+"['Shooter', 'Arcade']",Mortal Blitz,-70%,$5.99,$19.99
+['Puzzle'],The Angry Birds Movie 2 VR: Under Pressure,-30%,$10.49,$14.99
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",Raging Justice,-90%,$1.49,$14.99
+"['Adventure', 'Indie']",Kholat,-75%,$4.99,$19.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",VirtuaVerse,-50%,$7.49,$14.99
+"['Puzzle', 'Adventure', 'Indie', 'Visual Novel']",Pantsu Hunter: Back to the 90s,-60%,$5.19,$12.99
+"['Shooter', 'Arcade']",Assault Suit Leynos,-80%,$3.99,$19.99
+"['Shooter', 'Adventure']",Get Even,-85%,$4.49,$29.99
+"['Adventure', 'Visual Novel']",Legend of Arcadieu Bundle,-50%,$3.99,$7.99
+"['Shooter', 'Adventure', 'Indie']",Immortal Legacy: The Jade Cipher,-50%,$9.99,$19.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Kid Ball Adventure,-40%,$2.99,$4.99
+"['Puzzle', 'Arcade']",Pretty Girls Panic!,-60%,$2.39,$5.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie', 'Arcade', 'Visual Novel']",Arcade Spirits: The New Challengers,-30%,$13.99,$19.99
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Indie']",8-Bit Hordes,-90%,$2.99,$29.99
+"['Simulator', 'Adventure', 'Indie']",A Winter's Daydream,-50%,$2.99,$5.99
+"['Adventure', 'Indie', 'Arcade', 'Visual Novel']",Arcade Spirits,-70%,$5.99,$19.99
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Tactical', 'Indie']",8-Bit Invaders!,-90%,$2.99,$29.99
+"['Shooter', 'Indie', 'Arcade']",Remote Life,-50%,$9.49,$18.99
+"['Racing', 'Simulator', 'Sport', 'Arcade']",Racing Karts,-50%,$2.99,$5.99
+"['Racing', 'Simulator', 'Sport', 'Arcade']",Racing Karts,-50%,$3.49,$6.99
+"['Platform', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",Whisper Trip,-25%,$9.36,$12.49
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",Rainbow Billy: The Curse of the Leviathan,-65%,$6.99,$19.99
+"['Adventure', 'Indie', 'Visual Novel']",C14 Dating,-70%,$5.99,$19.99
+"['Platform', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",Chenso Club,-33%,$6.69,$9.99
+"['Racing', 'Arcade']",Mini Car Racing 2,-30%,$4.54,$6.49
+"['Shooter', 'Arcade']",America Wild Hunting,-40%,$2.99,$4.99
+"['Shooter', 'Platform', 'Role-playing (RPG)', 'Simulator', 'Indie', 'Arcade']",Stellatum,-60%,$3.99,$9.99
+"['Puzzle', 'Simulator', 'Adventure', 'Indie']",Serial Cleaner,-80%,$2.99,$14.99
+"['Adventure', 'Indie']",Bunker,-70%,$5.99,$19.99
+"['Shooter', 'Arcade']",Hunter Shooting Camp,-40%,$5.99,$9.99
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Indie', 'Card & Board Game']",The Amazing American Circus,-65%,$6.99,$19.99
+"['Adventure', 'Indie']",This Is the Zodiac Speaking,-70%,$3.89,$12.99
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",Tears of Avia,-50%,$7.49,$14.99
+"['Simulator', 'Sport']",Grand Slam Tennis,-40%,$2.39,$3.99
+"['Puzzle', 'Card & Board Game']",Delicious! Pretty Girls Mahjong Solitaire,-60%,$2.39,$5.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Smoke and Sacrifice,-80%,$3.99,$19.99
+"[""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",Zombie Vikings,-80%,$2.39,$11.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",The Plane Effect,-60%,$5.99,$14.99
+"['Racing', 'Sport']",Warp Drive,-20%,$19.99,$24.99
+"['Shooter', 'Arcade']",Ginga Force,-70%,$5.99,$19.99
+"['Puzzle', 'Adventure']",Pnevmo-Capsula,-40%,$2.99,$4.99
+"['Racing', 'Simulator', 'Sport']",Ducati: 90th Anniversary - The Official Videogame,-90%,$0.99,$9.99
+['Adventure'],Repentless,-20%,$2.39,$2.99
+"['Puzzle', 'Arcade']",Candy Match Kiddies,-40%,$2.99,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Flipping Death,-80%,$3.99,$19.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",Lone Survivor: The Director's Cut,-80%,$1.99,$9.99
+"['Adventure', 'Indie']",Another Dawn,-40%,$11.99,$19.99
+"['Simulator', 'Sport']",Ski Jumping Pro VR,-50%,$9.99,$19.99
+['Sport'],Tennis World Tour: Legends Edition,-85%,$3.74,$24.99
+"['Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",Hell Warders,-90%,$1.49,$14.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Beasts of Maravilla Island,-45%,$5.49,$9.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Sigi: A Fart for Melusina,-60%,$1.99,$4.99
+"['Platform', 'Puzzle', 'Simulator', 'Adventure', 'Indie', 'Arcade']",Freddy Spaghetti,-80%,$0.99,$4.99
+['Music'],The Button Be Fields,-20%,$1.19,$1.49
+"['Point-and-click', 'Puzzle', 'Simulator', 'Adventure', 'Indie']",Beat Cop,-90%,$1.49,$14.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",7th Sector,-60%,$7.99,$19.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Suicide Guy: Sleepin' Deeply,-92%,$0.47,$5.99
+"['Fighting', 'Indie']",Lunch A Palooza,-60%,$7.99,$19.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Jack N' Jill DX,-90%,$0.49,$4.99
+"['Puzzle', 'Arcade']",Arcade Islands: Volume One,-80%,$3.99,$19.99
+"['Simulator', 'Strategy', 'Indie']",Big Pharma,-75%,$7.49,$29.99
+"['Puzzle', 'Simulator', 'Adventure', 'Indie']",The Infectious Madness of Doctor Dekker,-55%,$5.84,$12.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",Roommates,-80%,$3.99,$19.99
+"['Adventure', 'Indie', 'Visual Novel']",Magi Trials,-50%,$3.99,$7.99
+"['Shooter', 'Racing', 'Arcade']",Gearshifters,-60%,$11.99,$29.99
+['Platform'],Within the Blade,-70%,$3.29,$10.99
+"['Puzzle', 'Strategy', 'Indie', 'Card & Board Game']",Puzzletronics Digital Infinite,-50%,$1.99,$3.99
+['Sport'],Crazy Strike Bowling EX,-50%,$6.49,$12.99
+"['Simulator', 'Strategy']",Project Highrise: Architect's Edition,-80%,$5.99,$29.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Bloodroots,-55%,$8.99,$19.99
+"['Simulator', 'Adventure']",Kansei: The Second Turn HD,-70%,$2.39,$7.99
+"['Shooter', 'Simulator', 'Adventure', 'Indie']",Guns of Icarus Alliance,-75%,$1.24,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",My Memory of Us,-75%,$5.74,$22.99
+"['Simulator', 'Adventure', 'Indie', 'Visual Novel']",A Little Lily Princess,-70%,$4.49,$14.99
+"['Fighting', 'Role-playing (RPG)', 'Adventure', 'Indie']",Neon City Riders,-50%,$9.99,$19.99
+"['Music', 'Racing', 'Indie', 'Arcade']",Music Racer,-50%,$3.49,$6.99
+"['Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure']",Rebel Cops,-80%,$1.99,$9.99
+"['Puzzle', 'Simulator', 'Strategy', 'Indie']",Reus,-90%,$1.49,$14.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",Inspector Waffles,-75%,$3.49,$13.99
+"['Puzzle', 'Card & Board Game']",Pretty Girls Klondike Solitaire,-60%,$2.39,$5.99
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie', 'Card & Board Game']",Curious Expedition,-60%,$5.99,$14.99
+"['Shooter', 'Puzzle', 'Strategy', 'Indie', 'Arcade']",Virtuous Western,-80%,$0.99,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",What Lies in the Multiverse,-75%,$3.74,$14.99
+"['Shooter', 'Indie']",Time Carnage,-70%,$5.99,$19.99
+"['Point-and-click', 'Puzzle', 'Indie']",Covert Front: Episode 1 - All Quiet on the Covert Front,-30%,$13.99,$19.99
+['Arcade'],Space Invasion,-40%,$2.99,$4.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",Tohu,-50%,$7.49,$14.99
+"['Music', 'Platform', 'Adventure', 'Indie']",Songbird Symphony,-80%,$3.39,$16.99
+"['Simulator', 'Sport']",Extreme Snowboard,-40%,$5.39,$8.99
+['Sport'],Am I Hero?,-80%,$1.99,$9.99
+"['Simulator', 'Sport', 'Indie', 'Arcade']",Super Sports Blast,-70%,$7.49,$24.99
+"['Sport', 'Arcade']",3D Air Hockey,-75%,$2.49,$9.99
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Indie']",Earth's Dawn,-80%,$5.99,$29.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Red Bow,-80%,$0.99,$4.99
+"['Shooter', 'Indie', 'Arcade']",Super Destronaut: Land Wars,-70%,$1.49,$4.99
+"['Adventure', 'Indie', 'Visual Novel']",Bai Qu: Hundreds of Melodies,-60%,$3.99,$9.99
+['Sport'],Bocce,-40%,$4.79,$7.99
+"['Simulator', 'Adventure', 'Indie']",Apico,-30%,$13.99,$19.99
+"['Puzzle', 'Adventure']",DeMagnete VR,-25%,$14.99,$19.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",Almost My Floor,-50%,$4.99,$9.99
+"['Shooter', 'Adventure', 'Indie', 'Arcade']",Genetic Disaster,-75%,$3.74,$14.99
+"['Fighting', 'Adventure', 'Arcade']",QUByte Classics: The Tale of Clouds and Wind,-30%,$3.49,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Arcade']",Gravity Duck,-90%,$0.49,$4.99
+"['Simulator', 'Sport', 'Arcade']",Tip Top: Don't Fall!,-40%,$5.99,$9.99
+['Indie'],Junkyard Fury 2,-25%,$7.49,$9.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Decay of Logos,-70%,$5.99,$19.99
+"['Adventure', 'Indie', 'Visual Novel']",Memories of East Coast,-70%,$1.49,$4.99
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",Stick it to the (Stick) Man,-80%,$1.59,$7.99
+"['Role-playing (RPG)', 'Visual Novel']","Drowning, Drowning",-50%,$1.49,$2.99
+"['Music', 'Platform', 'Adventure', 'Indie', 'Arcade']",Himno,-90%,$0.49,$4.99
+"['Shooter', 'Platform', 'Arcade']",Hillbilly Doomsday,-50%,$2.49,$4.99
+"['Puzzle', 'Strategy', 'Indie']",Amazing Superhero Squad,-50%,$3.49,$6.99
+"['Puzzle', 'Adventure', 'Visual Novel']",My Aunt is a Witch,-60%,$3.99,$9.99
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",Holy Potatoes! We're in Space?!,-70%,$4.49,$14.99
+"['Shooter', 'Adventure', 'Indie', 'Arcade']",HellGunner,-60%,$1.99,$4.99
+"['Simulator', 'Adventure', 'Indie', 'Visual Novel']",Blind Men,-90%,$0.49,$4.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Fallen Legion: Flames of Rebellion,-85%,$2.99,$19.99
+['Role-playing (RPG)'],Divine Divinity,-50%,$2.49,$4.99
+"['Fighting', 'Arcade']",Urban Street Fighting,-40%,$2.99,$4.99
+"['Puzzle', 'Adventure', 'Indie']",Wind Peaks,-50%,$7.49,$14.99
+"['Fighting', 'Platform', 'Strategy']",Fallen Knight,-50%,$7.49,$14.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",Catie in MeowmeowLand,-50%,$7.49,$14.99
+"['Racing', 'Sport', 'Indie', 'Arcade']",Trailblazers,-90%,$2.99,$29.99
+"['Strategy', 'Turn-based strategy (TBS)', 'Indie']",1971 Project Helios,-55%,$6.74,$14.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",Heal: Console Edition,-70%,$2.09,$6.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Kid Tripp,-80%,$0.79,$3.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Ravensword: Shadowlands,-70%,$2.09,$6.99
+"['Fighting', 'Platform', 'Adventure']",QUByte Classics: The Samurai Collection,-40%,$5.99,$9.99
+"['Racing', 'Sport', 'Indie']",Nippon Marathon,-80%,$2.99,$14.99
+"['Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",Rogue Explorer,-60%,$3.19,$7.99
+"['Role-playing (RPG)', 'Strategy', 'Indie']",Dragon Fang Z: The Rose & Dungeon of Time,-60%,$9.59,$23.99
+"['Point-and-click', 'Puzzle', 'Adventure']",Clockwork Tales: Of Glass and Ink,-70%,$4.49,$14.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",The Mooseman,-60%,$2.79,$6.99
+"['Simulator', 'Indie']",The Garden Path,-70%,$1.49,$4.99
+"['Fighting', 'Platform', 'Puzzle', 'Indie', 'Arcade']",10 Second Ninja X,-80%,$1.99,$9.99
+"['Adventure', 'Indie']",Cave Digger 2D,-30%,$10.49,$14.99
+"['Platform', 'Puzzle']",Giga Wrecker Alt.,-70%,$7.49,$24.99
+"['Shooter', 'Platform', 'Adventure', 'Indie', 'Arcade']",Savage Halloween,-50%,$2.49,$4.99
+"['Shooter', 'Strategy', 'Indie', 'Arcade']",Zero Strain,-80%,$1.99,$9.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Visual Novel']",Nicole,-80%,$3.79,$18.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie', 'Visual Novel']",Syrup and the Ultimate Sweet,-70%,$1.49,$4.99
+"['Strategy', 'Turn-based strategy (TBS)', 'Indie']",Attack of the Earthlings,-50%,$9.99,$19.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",Apocalipsis: The Tree of the Knowledge of Good and Evil,-70%,$1.49,$4.99
+"['Platform', 'Strategy', 'Adventure', 'Indie', 'Arcade']",The Wizard and The Slug,-50%,$2.49,$4.99
+"['Music', 'Puzzle', 'Strategy', 'Indie']",Active Neurons 3: Wonders of the World,-50%,$2.49,$4.99
+"['Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Indie']",Super Daryl Deluxe,-50%,$9.99,$19.99
+"['Puzzle', 'Adventure', 'Indie']",Summertime Madness,-50%,$7.49,$14.99
+"['Puzzle', 'Strategy', 'Adventure', 'Indie', 'Card & Board Game']",Archaica: The Path Of Light,-75%,$3.74,$14.99
+"['Music', 'Platform', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",Ovivo,-60%,$2.79,$6.99
+"['Platform', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",The Swindle,-80%,$2.99,$14.99
+"['Puzzle', 'Adventure', 'Indie']",Eclipse: Edge of Light,-43%,$8.54,$14.99
+"['Shooter', 'Adventure', 'Indie', 'Arcade']",Titan Attacks!,-80%,$1.99,$9.99
+"['Fighting', 'Adventure', 'Indie', 'Arcade']",Pato Box,-70%,$4.49,$14.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Castle on the Coast,-60%,$5.99,$14.99
+"['Fighting', 'Puzzle', 'Indie', 'Arcade']",Metropolis: Lux Obscura,-60%,$3.19,$7.99
+"['Platform', 'Racing', 'Sport', 'Indie']",Action Henk,-80%,$2.99,$14.99
+['Indie'],Party Pumper,-70%,$5.09,$16.99
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie']",Holy Potatoes! A Weapon Shop?!,-70%,$4.49,$14.99
+"['Simulator', 'Sport', 'Indie', 'Arcade']",Super Soccer Blast: America VS Europe,-70%,$9.99,$14.99
+"['Racing', 'Simulator', 'Adventure', 'Indie']",Aery: A New Frontier,-40%,$5.99,$9.99
+"['Simulator', 'Indie']",Aery: Calm Mind 2,-40%,$5.99,$9.99
+"['Puzzle', 'Adventure', 'Indie']",Mask of Mists,-60%,$5.99,$14.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Visual Novel']",Jisei: The First Case HD,-80%,$0.99,$4.99
+"['Platform', 'Adventure', 'Indie']",SuperEpic: The Entertainment War,-75%,$4.49,$17.99
+['Arcade'],A Bird Hunt: Retro Bird Hunting Game,-75%,$2.49,$9.99
+"['Shooter', 'Indie', 'Arcade']",Ultratron,-80%,$1.99,$9.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Miles & Kilo,-80%,$1.59,$7.99
+"['Shooter', 'Adventure', 'Indie', 'Arcade']",Takotan,-80%,$1.39,$6.99
+"['Shooter', 'Adventure', 'Indie', 'Arcade']",Takotan,-80%,$1.99,$9.99
+"['Fighting', 'Indie', 'Arcade']",Iron Snout,-90%,$0.49,$4.99
+"['Music', 'Adventure', 'Indie']",Klang 2,-60%,$5.99,$14.99
+"['Shooter', 'Strategy', 'Adventure', 'Indie']",LA Cops,-50%,$2.49,$4.99
+"['Simulator', 'Sport']",Real Pool,-75%,$2.49,$9.99
+"['Shooter', 'Indie', 'Arcade']",Cake Invaders,-60%,$2.39,$5.99
+"['Point-and-click', 'Adventure']",2064: Read Only Memories Integral,-50%,$9.99,$19.99
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Indie']",Warborn: Variable Armour Command,-85%,$3.74,$24.99
+"['Shooter', 'Indie', 'Arcade']",Ultra Mission,-33%,$2.00,$2.99
+"['Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",Moo Lander,-30%,$12.59,$17.99
+"['Platform', 'Strategy']",SolSeraph,-80%,$2.99,$14.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Stealth Inc 2: A Game of Clones,-80%,$1.99,$9.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie', 'Visual Novel']",Headliner: NoviNews,-40%,$8.39,$13.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Extreme Exorcism,-80%,$1.19,$5.99
+"['Simulator', 'Adventure', 'Indie']",Aery: Dreamscape,-40%,$7.19,$11.99
+"['Platform', 'Racing', 'Adventure', 'Indie', 'Arcade']",Balancelot,-80%,$1.59,$7.99
+"['Puzzle', 'Card & Board Game']",I Love Food,-50%,$2.49,$4.99
+['Indie'],Jump Stars,-80%,$1.99,$9.99
+"['Racing', 'Simulator', 'Sport', 'Arcade']",Grand Prix Rock 'N Racing,-75%,$1.99,$7.99
+"['Racing', 'Indie']",Coffin Dodgers,-70%,$3.59,$11.99
+"['Shooter', 'Indie', 'Arcade']",InkSplosion,-90%,$0.49,$4.99
+"['Puzzle', 'Adventure']",Megalan 11,-40%,$5.99,$9.99
+"['Simulator', 'Sport', 'Arcade']",Table Tennis,-75%,$2.49,$9.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Behind Closed Doors: A Developer's Tale,-50%,$2.49,$4.99
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",Moonfall Ultimate,-60%,$5.19,$12.99
+"['Simulator', 'Indie']",TrainerVR,-50%,$4.99,$9.99
+['Role-playing (RPG)'],Sega Ages 2500 Vol. 1: Phantasy Star Generation - 1,-80%,$1.99,$9.99
+"['Simulator', 'Strategy', 'Indie', 'Arcade']","Good Pizza, Great Pizza",-60%,$1.99,$4.99
+"['Shooter', 'Indie', 'Arcade']",Spacewing War,-50%,$3.49,$6.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",A Pixel Story,-80%,$2.39,$11.99
+"['Simulator', 'Adventure', 'Indie']",ArtPulse,-90%,$1.29,$12.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Skatemasta Tcheco,-60%,$1.99,$4.99
+"['Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",bit Dungeon+,-20%,$5.59,$6.99
+"['Adventure', 'Indie']",Swordbreaker the Game,-50%,$2.49,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Crazy Gravity,-60%,$1.99,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Saomi,-50%,$1.99,$3.99
+"['Platform', 'Puzzle', 'Adventure', 'Arcade']",Twin Robots: Ultimate Edition,-70%,$2.39,$7.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Visual Novel']",Vera Blanc: Ghost in the Castle,-80%,$0.99,$4.99
+"['Shooter', 'Adventure', 'Indie', 'Arcade']",UltraGoodness 2,-80%,$0.99,$4.99
+"['Strategy', 'Indie']",Lost Artifacts: Frozen Queen,-50%,$4.49,$8.99
+['Platform'],Paradox Error,-70%,$1.49,$4.99
+"['Shooter', 'Indie', 'Arcade']",Delta Squad,-70%,$1.79,$5.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Tanuki Justice,-60%,$5.99,$14.99
+"['Shooter', 'Platform', 'Racing', 'Indie', 'Arcade']",Speed Limit,-60%,$3.99,$9.99
+"['Music', 'Puzzle', 'Indie', 'Card & Board Game']",Energy Cycle,-50%,$1.49,$2.99
+"['Racing', 'Indie']",Super Pixel Racers,-80%,$2.99,$14.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Potata: fairy flower,-70%,$4.49,$14.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Aeon Drive,-50%,$7.24,$14.49
+"['Strategy', 'Adventure', 'Indie']",Lord of the Click 3,-40%,$2.99,$4.99
+"['Music', 'Puzzle', 'Strategy', 'Indie', 'Arcade']",Active Neurons 2,-80%,$0.99,$4.99
+"['Platform', 'Role-playing (RPG)', 'Adventure', 'Indie']",Wuppo,-90%,$1.99,$19.99
+"['Shooter', 'Simulator', 'Adventure', 'Indie', 'Arcade']",Aero Striker: World Invasion,-40%,$5.99,$9.99
+"['Racing', 'Adventure', 'Indie']",Tinker Racers,-50%,$2.49,$4.99
+"['Platform', 'Adventure', 'Indie']",Dark Sauce,-40%,$2.99,$4.99
+"['Shooter', 'Racing', 'Indie', 'Arcade']",State of Anarchy: Master of Mayhem,-80%,$1.59,$7.99
+"['Puzzle', 'Adventure', 'Indie']",Rune Lord,-40%,$4.19,$6.99
+"['Shooter', 'Platform', 'Indie']",Queeny Army,-60%,$1.99,$4.99
+"['Music', 'Puzzle', 'Indie']",Alveole,-50%,$2.49,$4.99
+"['Platform', 'Puzzle', 'Simulator', 'Strategy']",Need a packet?,-70%,$2.09,$6.99
+"['Puzzle', 'Indie']",Immortus Temporus,-60%,$1.99,$4.99
+"['Shooter', 'Adventure', 'Arcade']",Fast Striker,-80%,$1.39,$6.99
+['Arcade'],Round Invaders Rush 2,-20%,$1.19,$1.49
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Indie', 'Card & Board Game']",Steam Tactics,-60%,$3.99,$9.99
+"['Puzzle', 'Simulator', 'Sport', 'Arcade']",Super Ping Pong Trick Shot,-25%,$5.24,$6.99
+"['Music', 'Puzzle', 'Arcade']",Chime Sharp,-40%,$5.99,$9.99
+"['Puzzle', 'Adventure', 'Indie', 'Arcade']",CrossKrush,-80%,$0.99,$4.99
+"['Puzzle', 'Adventure', 'Indie', 'Arcade']",Spy Chameleon,-70%,$2.99,$9.99
+"['Platform', 'Puzzle', 'Indie']",Blow & Fly,-40%,$2.99,$4.99
+"['Platform', 'Puzzle', 'Arcade']",The Adventures of Elena Temple: Definitive Edition,-40%,$2.99,$4.99
+"['Puzzle', 'Tactical', 'Adventure', 'Indie']",Marble Duel,-25%,$8.99,$11.99
+"['Shooter', 'Indie', 'Arcade']",Star Hunter DX,-60%,$3.99,$9.99
+"['Platform', 'Puzzle', 'Indie']",Ball laB,-60%,$1.99,$4.99
+"['Platform', 'Puzzle', 'Indie']",20 Bunnies,-60%,$1.99,$4.99
+"['Shooter', 'Adventure', 'Indie', 'Arcade']",Ice Cream Surfer,-20%,$6.39,$7.99
+"['Platform', 'Puzzle']",0 Degrees,-60%,$1.99,$4.99
+"['Platform', 'Racing', 'Simulator', 'Adventure', 'Indie', 'Arcade']",Supermarket Shriek,-60%,$7.99,$19.99
+"['Puzzle', 'Adventure', 'Indie']",Mina & Michi,-60%,$1.99,$4.99
+"['Strategy', 'Adventure', 'Indie']",Crown of the Empire,-50%,$4.49,$8.99
+"['Shooter', 'Strategy', 'Indie']",Hellfront: Honeymoon,-80%,$1.99,$9.99
+"['Platform', 'Adventure', 'Indie']",Planet RIX-13,-70%,$1.49,$4.99
+"['Shooter', 'Platform', 'Adventure', 'Indie', 'Arcade']",Gravity Heroes,-50%,$7.49,$14.99
+"['Puzzle', 'Racing', 'Simulator', 'Adventure', 'Indie']",Aery: Broken Memories,-40%,$8.39,$13.99
+"['Simulator', 'Strategy', 'Indie', 'Arcade']",Holy Potatoes! What the Hell?!,-70%,$4.49,$14.99
+"['Strategy', 'Indie']",Quantum Replica,-60%,$3.99,$9.99
+"['Platform', 'Role-playing (RPG)', 'Indie']",Rift Keeper,-70%,$2.99,$9.99
+"['Puzzle', 'Strategy', 'Adventure', 'Indie', 'Arcade']",Bone Marrow,-70%,$1.49,$4.99
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie', 'Visual Novel']",A Summer with the Shiba Inu,-70%,$2.99,$9.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Bucket Knight,-50%,$2.49,$4.99
+"['Adventure', 'Indie']",Dungeon Escape,-70%,$1.49,$4.99
+['Adventure'],Breeder: Homegrown - Director's Cut,-70%,$1.49,$4.99
+"['Simulator', 'Indie', 'Arcade']",Aircraft Evolution,-60%,$3.99,$9.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Yasai Ninja,-40%,$1.79,$2.99
+"['Platform', 'Puzzle']",Lost in Shadow,-70%,$1.49,$4.99
+"['Puzzle', 'Adventure', 'Indie']",Soul Axiom,-60%,$4.79,$11.99
+"['Adventure', 'Indie', 'Visual Novel']",Dull Grey,-60%,$1.99,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Backpack Twins,-20%,$9.59,$11.99
+"['Puzzle', 'Strategy', 'Adventure', 'Indie', 'Card & Board Game']",Dungeons & Bombs,-60%,$1.99,$4.99
+['Indie'],Dogfight,-75%,$2.49,$9.99
+"['Strategy', 'Indie']",Anomaly 2,-90%,$1.49,$14.99
+"['Puzzle', 'Card & Board Game']",Mind Maze,-75%,$1.24,$4.99
+"['Platform', 'Puzzle', 'Simulator', 'Strategy', 'Adventure', 'Arcade']",QUByte Classics: The Humans by Piko,-50%,$3.99,$7.99
+['Music'],Toro,-40%,$1.79,$2.99
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy']",Wanderjahr,-50%,$4.99,$9.99
+"['Platform', 'Puzzle']",Glo,-70%,$1.49,$4.99
+"['Platform', 'Puzzle', 'Strategy', 'Adventure', 'Indie']",Raven's Hike,-50%,$1.99,$3.99
+"['Adventure', 'Indie']",Knee Deep,-70%,$4.49,$14.99
+"['Puzzle', 'Adventure', 'Indie']",North,-60%,$1.19,$2.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Awesome Pea 2,-60%,$1.99,$4.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Awesome Pea,-60%,$2.39,$5.99
+"['Puzzle', 'Adventure', 'Indie']",The Tower of Beatrice,-75%,$1.49,$5.99
+"['Platform', 'Puzzle', 'Indie']",Explosive Candy World,-60%,$1.99,$4.99
+"['Platform', 'Puzzle', 'Indie']",Mastho is Together,-60%,$1.99,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",Deep Ones,-70%,$1.49,$4.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",Irony Curtain: From Matryoshka with Love,-75%,$4.99,$19.99
+"[""Hack and slash/Beat 'em up""]",Spear of Destiny: The Kaiseki,-35%,$5.84,$8.99
+['Platform'],Taimumari: Complete Edition,-40%,$2.99,$4.99
+"['Shooter', 'Arcade']",In Extremis DX,-50%,$2.49,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Mugsters,-50%,$2.49,$4.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",A Hole New World,-20%,$7.99,$9.99
+"['Puzzle', 'Indie', 'Arcade']",Explosive Jake,-60%,$1.99,$4.99
+"['Puzzle', 'Simulator', 'Adventure', 'Indie']",Norman's Great Illusion,-60%,$1.99,$4.99
+"['Puzzle', 'Strategy', 'Tactical', 'Adventure', 'Indie']",Nova-111,-80%,$1.99,$9.99
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",Vasilis,-75%,$1.24,$4.99
+"['Platform', 'Adventure']",Woodle Tree Adventures Deluxe,-92%,$0.39,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",Tyd wag vir Niemand,-75%,$2.49,$9.99
+"['Music', 'Puzzle']",Energy Cycle Edge,-50%,$2.49,$4.99
+"['Platform', 'Adventure', 'Arcade']",El Gancho,-60%,$2.79,$6.99
+"['Puzzle', 'Indie', 'Arcade']",Petal Crash,-30%,$9.79,$13.99
+"['Shooter', 'Platform', 'Indie', 'Arcade']",Gutwhale,-60%,$1.99,$4.99
+"['Music', 'Puzzle', 'Indie', 'Arcade']",Sonar Beat,-20%,$1.99,$2.49
+"['Fighting', 'Indie', 'Arcade']",Infinity Runner,-65%,$2.44,$6.99
+"[""Hack and slash/Beat 'em up"", 'Arcade']",Golden Axe,-40%,$2.99,$4.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",Headspun,-60%,$5.19,$12.99
+"['Music', 'Platform', 'Puzzle', 'Simulator', 'Indie', 'Arcade']",Grass Cutter: Mutated Lawns,-70%,$2.09,$6.99
+"['Puzzle', 'Adventure', 'Indie', 'Arcade']",Neon Junctions,-80%,$0.99,$4.99
+"['Platform', 'Racing', 'Adventure', 'Indie']",Air Bounce: The Jump 'n' Run Challenge,-40%,$4.79,$7.99
+"['Shooter', 'Racing', 'Indie', 'Arcade']",Gridd: Retroenhanced,-60%,$4.79,$11.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",Save the Ninja Clan,-70%,$0.89,$2.99
+"['Puzzle', 'Indie']",Catty & Batty: The Spirit Guide,-50%,$2.49,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",Escape from Life Inc,-60%,$3.99,$9.99
+"['Puzzle', 'Strategy', 'Indie']",GraviFire,-60%,$1.99,$4.99
+"['Puzzle', 'Indie']",Grab the Bottle,-80%,$0.99,$4.99
+"['Platform', 'Indie', 'Arcade']",Arkan: The Dog Adventurer,-50%,$2.49,$4.99
+"['Shooter', 'Racing', 'Arcade']",Of Tanks and Demons III,-40%,$2.99,$4.99
+"['Music', 'Puzzle', 'Indie', 'Arcade']",Energy Invasion,-60%,$1.19,$2.99
+['Platform'],Acalesia,-40%,$2.99,$4.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Pixel Devil and the Broken Cartridge,-40%,$2.99,$4.99
+"['Platform', 'Adventure', 'Indie']",Glam's Incredible Run: Escape from Dukha,-60%,$1.99,$4.99
+"['Platform', 'Adventure', 'Indie']",Oliver's Adventures in the Fairyland,-40%,$4.19,$6.99
+"['Role-playing (RPG)', 'Adventure', 'Indie']",NeverEnd,-70%,$0.89,$2.99
+"['Platform', 'Adventure', 'Indie', 'Arcade']",Rusty Gun,-40%,$2.99,$4.99
+"['Indie', 'Arcade']",OctaFight,-50%,$2.99,$5.99
+"['Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Indie', 'Visual Novel']",War of the Human Tanks: Alter,-70%,$1.49,$4.99
+['Shooter'],Shapeshooter,-50%,$1.99,$3.99
+"['Platform', 'Adventure', 'Arcade']",Super Hiking League DX,-50%,$2.49,$4.99
+"['Platform', 'Puzzle', 'Adventure']",Escape From Tethys,-50%,$4.99,$9.99
+"['Puzzle', 'Indie', 'Arcade']",Spiral Splatter,-70%,$1.49,$4.99
+['Strategy'],Royal Roads,-50%,$4.99,$9.99
+"['Platform', 'Racing', 'Indie', 'Arcade']",Razed,-80%,$2.39,$11.99
+"['Platform', 'Adventure', 'Indie']",Chop is Dish,-40%,$2.99,$4.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",Balthazar's Dream,-20%,$6.39,$7.99
+"['Shooter', 'Platform', 'Indie']",SkyTime,-60%,$1.19,$2.99
+"['Platform', 'Adventure', 'Indie']",Kyurinaga's Revenge,-60%,$3.99,$9.99
+"['Puzzle', 'Indie', 'Card & Board Game']",Energy Balance,-60%,$1.19,$2.99
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",One Eyed Kutkh,-70%,$1.49,$4.99
+"['Adventure', 'Indie']",Crashbot,-70%,$2.99,$9.99
+"['Puzzle', 'Adventure', 'Indie']",Lanternium,-40%,$2.99,$4.99
+"['Strategy', 'Adventure']",Lost Artifacts: Time Machine,-50%,$4.99,$9.99
+"['Shooter', 'Indie']",Friends vs Friends,-80%,$1.19,$5.99
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",In-Vert,-40%,$2.99,$4.99
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)']",Mecho Wars: Desert Ashes,-70%,$2.99,$9.99
+"['Shooter', 'Arcade']",Round Invaders,-40%,$1.79,$2.99
+['Puzzle'],Sudoku Master,-40%,$2.99,$4.99
+"['Shooter', 'Arcade']",Cannon Army,-40%,$1.49,$2.49
+"['Fighting', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",Atone: Heart of the Elder Tree,-33%,$10.04,$14.99
