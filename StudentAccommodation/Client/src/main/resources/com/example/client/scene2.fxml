@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.client.ClientController">
+   <children>
+      <Button fx:id="function2" layoutX="504.0" layoutY="238.0" mnemonicParsing="false" onAction="#switchScene1" prefHeight="39.0" prefWidth="272.0" text="Add all students" />
+      <Button fx:id="function3" layoutX="504.0" layoutY="305.0" mnemonicParsing="false" onAction="#switchScene1" prefHeight="39.0" prefWidth="272.0" text="Remove student" />
+      <Button fx:id="function4" layoutX="504.0" layoutY="372.0" mnemonicParsing="false" onAction="#switchScene1" prefHeight="39.0" prefWidth="272.0" text="Remove all students" />
+      <Button fx:id="function5" layoutX="504.0" layoutY="439.0" mnemonicParsing="false" onAction="#switchScene1" prefHeight="39.0" prefWidth="272.0" text="Show student by ID" />
+      <Button fx:id="function6" layoutX="504.0" layoutY="506.0" mnemonicParsing="false" onAction="#switchScene1" prefHeight="39.0" prefWidth="272.0" text="Show all students" />
+      <Button fx:id="function7" layoutX="504.0" layoutY="573.0" mnemonicParsing="false" onAction="#switchScene1" prefHeight="39.0" prefWidth="272.0" text="Distribute students" />
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text layoutX="629.0" layoutY="151.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+      <Text layoutX="473.0" layoutY="134.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-size: 24;" text="Select operation: " textAlignment="CENTER" wrappingWidth="333.13671875" />
+      <Button fx:id="function1" layoutX="504.0" layoutY="174.0" mnemonicParsing="false" onAction="#switchScene1" prefHeight="39.0" prefWidth="272.0" text="Add student / camera / camin" />
+      <Button fx:id="function8" layoutX="556.0" layoutY="641.0" mnemonicParsing="false" onAction="#switchScene1" prefHeight="16.0" prefWidth="169.0" text="Disconnect" />
+   </children>
+</Pane>
