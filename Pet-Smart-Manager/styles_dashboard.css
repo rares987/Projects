@@ -1,0 +1,139 @@
+.dashboard{
+    background-color: #fefaf1 ;
+}
+
+.dashboard__container {
+    padding-right: 50px;
+    padding-left: 50px;
+    margin: 0 auto;
+    background-color: #f5d9b2  ;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    display: block;
+    overflow: auto;
+    height: 100%;
+}
+
+.dashboard__header{
+    list-style-type: none;
+    display:flex;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #d28f79;
+    width:100%;
+    height: 10%;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+}
+
+.dashboard__item{
+    padding-top: 30px;
+    width: 50%;
+    color:#d28f79 ;
+}
+
+.dashboard__button{
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    padding: 0 1rem;
+    color: #fefaf1;
+    background: #d28f79;
+    background-size: auto;
+    border-radius: 5px;
+}
+
+.dashboard__button:hover{
+    background: #000000;
+    transition: all 0.3s ease;
+}
+
+.image-grid{
+    --gap: 50px;
+    --num-cols: 3;
+    --row-height: 300px;
+
+    box-sizing: border-box;
+    padding: var(--gap);
+    
+    display: grid;
+    grid-template-columns: repeat(var(--num-cols), 1fr);
+    grid-auto-rows: var(--row-height); 
+    gap: var(--gap);
+}
+.pet__item{
+    text-align: center;
+}
+
+.pet__item > a > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.pet__name{
+    color:#d28f79;
+    font-size: 1.5rem;
+}
+
+
+.div-shadow{
+    width:5em;
+    height: 2em;
+    background-color: #000000;
+}
+
+:root {
+    --clr-primary: #2962ff;
+    --clr-primary-hover: #0d47a1;
+    --clr-gray-med: #78909c;
+    --clr-gray-light: #cfd8dc;
+  }
+  .display-image{
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    min-width: 200px;
+    margin: 0 auto;
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+  }
+
+@media screen and (max-width: 1024px) {
+    .image-grid{
+        --num-cols: 2;
+    --row-height: 200px;
+    
+    }
+    .display-image{
+        max-width: 100%;
+    height: auto;
+}
+}
+@media screen and (max-width: 650px) {
+    .image-grid{
+        --num-cols: 1;
+    --row-height: 400px;
+    }
+    .display-image{
+        max-width: 100%;
+    height: auto;
+}
+    .dashboard__button{
+        display: flex;
+        margin: 0 auto;
+    }
+    }
+
+    @media screen and (max-width: 1300px) {
+        .display-image{
+            max-width: 100%;
+        height: auto;
+    }
+        }
+        

@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Documentation</title>
+</head>
+<body>
+    <article>
+        <header>
+            <h1>
+                Pet Smart Manager
+            </h1>
+        </header>
+        <div role="contentinfo">
+            <section typeof="sa:AuthorsList">
+                <h2>Authors</h2>
+                <ul>
+                    <li typeof="sa:ContributorRole" property="schema:author">
+                        <span typeof="schema:Person">
+                            <meta property="schema:familyName" content="Cires">
+                            <meta property="schema:givenName" content="Rares">
+                            <span property="schema:name">Cires Rares</span>
+                        </span>
+                        <ul>
+                            <li property="schema:roleContactPoint" typeof="schema:ContactPoint">
+                                <a href="mailto:rares.cires@info.uaic.ro"
+                                    property="schema:email">rares.cires@info.uaic.ro</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li typeof="sa:ContributorRole" property="schema:author">
+                        <span typeof="schema:Person">
+                            <meta property="schema:familyName" content="Tudor">
+                            <meta property="schema:givenName" content="Cezar"> 
+                            <span property="schema:name">Tudor Cezar</span>
+                        </span>
+                        <ul>
+                            <li property="schema:roleContactPoint" typeof="schema:ContactPoint">
+                                <a href="mailto:cezar.tudor@info.uaic.ro"
+                                    property="schema:email">cezar.tudor@info.uaic.ro</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+        </div>
+        <div role="doc-introduction">
+        <section>
+            <h3>1. Introduction</h3>
+            <div role="doc-abstract">
+                <section>
+                    <h4>1.1 Purpose</h4>
+                    <p>
+                        The purpose of this document is to present a detailed description of the web application
+                        Pet Smart Manager. This document will explain the purpose, features and functionalities of the
+                        software.
+                        This document is intended for the potential users of the software.
+                    </p>
+                </section>
+            </div>
+            <section>
+                <h4>1.2 Document Conventions</h4>
+                <p>
+                    This Document was created based on the IEEE template for System Requirement
+                    Specification Documents.
+                </p>
+            </section>
+            <section>
+                <h4>1.3 Intended Audience and Reading Suggestions</h4>
+                <p>
+                    This document is intended for the potential users of the software. The reader is advised to read the document for a detailed description of the software.
+                </p>
+            </section>
+            <section>
+                <h4>1.4 Product Scope</h4>
+                <p>
+                    Pet Smart Manager has been developed for the purpose of providing an easy way for users to manage their pets. The software is intended to be used by the pet owners. The benefits of using this software include its ease of use and its ease of maintenance.
+                </p>
+            </section>
+            <section>
+                <h4>1.5 References</h4>
+                <ol>
+                    <li typeof="schema:WebPage" role="doc-biblioentry"
+                        resource="https://github.com/cezar06/Pet-Smart-Manager" property="schema:citation">
+                        <cite property="schema:name">
+                            <a href="https://github.com/cezar06/Pet-Smart-Manager">Pet Smart Manager's Github page</a>
+                        </cite>
+                    </li>
+                    <li typeof="schema:WebPage" role="doc-biblioentry"
+                        resource="https://github.com/rick4470/IEEE-SRS-Tempate#42-system-feature-2-and-so-on"
+                        property="schema:citation">
+                        <cite property="schema:name">
+                            <a href="https://github.com/rick4470/IEEE-SRS-Tempate#42-system-feature-2-and-so-on">IEEE
+                                Template for System Requirements Specification Documents</a>
+                        </cite>
+                    </li>
+                </ol>
+            </section>
+        </section>
+        </div>
+        <section>
+            <h3>2. Overall Description</h3>
+            <section>
+                <h4>2.1 Product Description</h4>
+                <p>
+                    Pet Smart Manager is a self-contained web application that allows users to manage their pets in various ways.
+                </p>
+            </section>
+            <section>
+                <h4>2.2 Product Functions</h4>
+                    <ul>
+                        <li>
+                            create and login to the web application
+                        </li>
+                        <li>
+                            add, edit and delete pets
+                        </li>
+                        <li>
+                            use an in-built calendar to manage diffent types of events in the life of the pet, such as birthdays, appointments, feeding and so on
+                        </li>
+                        <li>
+                            add restrictions to each pet in particular
+                        </li>
+                        <li>
+                            provides a section where the user can upload media files such as videos, gifs, pictures, audio files for each pet in particular
+                        </li>
+                        <li>
+                            provides a section where the user can see the pet's medical history, being pulled from the calendar
+                        </li>
+                        <li>
+                            the ability to add pets to one's friend list by specifying the target pet's name and the user's name, and the ability to remove pets from the friend list
+                        </li>
+                    </ul>
+            </section>
+            <section>
+                <h4>2.3 User Classes and Characteristics</h4>
+                <ul>
+                    <li>
+                        Guest : simple viewer of the website, has no functionalities other than being able to view the "Contact", "About", "Home" pages and the ability to create an account
+                    </li>
+                    <li>
+                        User : user with an associated account that has all the functionalities mentioned in the previous section, tied their account
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <h4>2.4 Operating Environment</h4>
+                <p>
+                    The website can be accessed from any device with a connection to the Internet and a web browser installed.
+                </p>
+            </section>
+            <section>
+                <h4>2.5 Design and Implementation Constraints</h4>
+                <p>
+                    Pet Smart Manager is being developed using HTML, CSS, PHP, SQLite and JavaScript.
+                </p>
+            </section>
+        </section>
+        <section>
+            <h3>3. External Interface Requirements</h3>
+            <section>
+                <h4>3.1 User Interfaces</h4>
+                <section>
+                    <figure typeof="sa:image">
+                        <figcaption>Pet Smart Manager's Home page</figcaption>
+                        <img src="screenshots/Homepage.png" alt="main page screenshot" width="50%">
+                    </figure>
+
+                    <figure typeof="sa:image">
+                        <figcaption>Pet Smart Manager's About page</figcaption>
+                        <img src="screenshots/About.png" alt="about page screenshot" width="50%">
+                    </figure>
+                    
+                    <figure typeof="sa:image">
+                        <figcaption>Pet Smart Manager's Contact page</figcaption>
+                        <img src="screenshots/Contact.png" alt="contact page screenshot" width="50%">
+                    </figure>
+
+                    <figure typeof="sa:image">
+                        <figcaption>Pet Smart Manager's Login page</figcaption>
+                        <img src="screenshots/Login.png" alt="login page screenshot" width="50%">
+                    </figure>
+
+                    <figure typeof="sa:image">
+                        <figcaption>Pet Smart Manager's Register page</figcaption>
+                        <img src="screenshots/Register.png" alt="register page screenshot" width="50%">
+                    </figure>
+
+                    <figure typeof="sa:image">
+                        <figcaption>Pet Smart Managerr's Dashboard page</figcaption>
+                        <img src="screenshots/Dashboard.png" alt="Dashboard page screenshot" width="70%">
+                    </figure>
+
+                    <figure typeof="sa:image">
+                        <figcaption>Pet Smart Managerr's Pet Profile page</figcaption>
+                        <img src="screenshots/PetProfile.png" alt="Dashboard page screenshot" width="70%">
+                    </figure>
+                </section>
+            </section>
+            <section>
+                <h4>3.2 Software Interfaces</h4>
+                <p>
+                    The minimum software requirements for Pet Smart Manager are a web browser and a connection to the
+                    Internet.
+                </p>
+            </section>
+            <section>
+                <h4>3.4 Communications Interfaces</h4>
+                <p>
+                    Pet Smart Manager requires Internet connection, using HTTP as its communication standard
+                </p>
+            </section>
+        </section>
+        <section>
+            <h3>4. System Features</h3>
+            <section>
+                <h4>4.1 Home</h4>
+                <ul>
+                    <li>
+                        home: displays the home page of the website
+                    </li>
+                    <li>
+                        about: displays the about page of the website
+                    </li>
+                    <li>
+                        contact us: displays the contact page of the website
+                    </li>
+                    <li>
+                        register: opens up a pop-up window where the user can register for an account - it's only available if the user is not logged in
+                    </li>
+                    <li>
+                        login: opens up a pop-up window where the user can login to an account - it's only available if the user is not logged in
+                    </li>
+                    <li>
+                        dashboard: displays the dashboard page of the website - it's only available if the user is logged in
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <h4>4.2 Dashboard</h4>
+                <ul>
+                    <li>
+                        home: displays the home page of the website
+                    </li>
+                    <li>
+                        about: displays the about page of the website
+                    </li>
+                    <li>
+                        contact us: displays the contact page of the website
+                    </li>
+                    <li>
+                        log out: logs the user out of the account and returns them to the home page
+                    </li>
+                    <li>
+                        add a pet: opens up a pop-up window where the user can add a pet to the account
+                    </li>
+                    <li>
+                        add a pet -> name: allows the user to enter the name of the pet
+                    </li>
+                    <li>
+                        add a pet -> browse: allows the user to browse for a picture of the pet
+                    </li>
+                    <li>
+                        click on the picture: opens the profile of the pet
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <h4>4.3 Register page</h4>
+                <p>
+                    Guests can create an account and then use it to login into the application and access all the
+                    features the account existence provides.
+                </p>
+            </section>
+            <section>
+                <h4>4.4 About page</h4>
+                <p>
+                    Users can view informations about the founders of the application and read a short description of our website.
+                </p>
+            </section>
+            <section>
+                <h4>4.5 Contact page</h4>
+                <p>
+                    Users can send a feedback to the administrators of the website. The feedback consists in sending a message to the administrators.
+                </p>
+            </section>
+            <section>
+                <h4>4.6 Dashboard page</h4>
+                <p>
+                    Users can add a pet to their account and going to their profile.
+                </p>
+                <h4>4.7 Pet Profile page</h4>
+                <p>
+                    Users can delete their pet's profile, add friends of their pet, see all his friends, add/see pet's restrictions, add/see pet's medical history,
+                    add an event in the calendar(Life Event, Medical Event, Feeding Event, Other Event), <br> delete an event from the calendar, upload photos, audios, videos of their pets,
+                    sharing on Twitter the events of the pet, xml button that shows the life events of that pet.
+                </p>
+            </section>
+        </section>
+        <section>
+            <h3>5. Other Nonfunctional Requirements</h3>
+            <section>
+                <h4>5.1 Safety Requirements</h4>
+                <p> The team will be working on Pet Smart Manager regularly to ensure that none of the user's data are at risk of loss.
+                </p>
+            </section>
+            <section>
+                <h4>5.2 Security Requirements</h4>
+                <p>
+                    The accounts created on our page are stored in a database, the password are hashed. Our site is preventing any attack of SQL injection and cross-site scripting(XSS).
+                </p>
+            </section>
+            <section>
+                <h4>5.3 Software Quality Attributes</h4>
+                <ul>
+                    <li>Adaptability</li>
+                    <li>Correctness</li>
+                    <li>Availability</li>
+                    <li>Reliability</li>
+                </ul>
+            </section>
+        </section>
+        <section>
+            <h3>Contribution</h3>
+            <section>
+                <h4>Cires Rares:</h4>
+                <ul>
+                    <li>Site design projection</li>
+                    <li>Overall site design structure</li>
+                    <li>Functionality - Register</li>
+                    <li>Functionality - LogIn</li>
+                    <li>Functionality - LogOut</li>
+                    <li>Functionality - See Info of restrictions and medical history</li>
+                    <li>Functionality - Delete a pet</li>
+                    <li>Functionality - Sharing life events of a pet on Twitter</li>
+                    <li>Responsivene Design - About, Contact Us</li>
+                    <li>Documentation</li>
+                </ul>
+                <h4>Tudor Cezar:</h4>
+                <ul>
+                    <li>Site design projection</li>
+                    <li>Overall site design structure</li>
+                    <li>Functionality - Add a pet</li>
+                    <li>Functionality - Add event to calendar</li>
+                    <li>Functionality - Delete event from calendar</li>
+                    <li>Functionality - Display pets on the dashboard</li>
+                    <li>Functionality - Add pet to friend list</li>
+                    <li>Functionality - Remove pet from friend list</li>
+                    <li>Functionality - Upload section for audio, video and images</li>
+                    <li>Responsivene Design - Dashboard, Home, Pet Profile</li>
+                    <li>Documentation</li>
+                </ul>
+            </section>
+        </section>
+    </article>
+</body>
+</html>
